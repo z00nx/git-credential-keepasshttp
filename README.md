@@ -2,8 +2,8 @@
 A git credential helper to integrate with keepass using keepasshttp
 
 # Requirements
-* python 2
-* python-keepasshttp
+* python 3
+* python3-keepasshttp (pip3 install git+https://github.com/MarkusFreitag/python3-keepasshttp.git)
 
 # Installation
 Copy git-credential-keepasshttp into a location into a directory included in $PATH e.g. /usr/local/bin
