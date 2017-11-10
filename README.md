@@ -1,3 +1,4 @@
+[![Build Status](https://travis-ci.org/z00nx/git-credential-keepasshttp.svg?branch=master)](https://travis-ci.org/z00nx/git-credential-keepasshttp)[![Maintainability](https://api.codeclimate.com/v1/badges/65e6ab4cce993efd9eae/maintainability)](https://codeclimate.com/github/z00nx/git-credential-keepasshttp/maintainability)
 # git-credential-keepasshttp
 A git credential helper to integrate with keepass using keepasshttp
 
