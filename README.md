@@ -3,11 +3,14 @@
 A git credential helper to integrate with keepass using keepasshttp
 
 # Requirements
-* python 3
-* python3-keepasshttp (pip3 install git+https://github.com/MarkusFreitag/python3-keepasshttp.git)
+* python 2 or 3
+* python3-keepasshttp for python 3 (https://github.com/MarkusFreitag/python3-keepasshttp.git)
+* python-keepasshttp for python 2 (https://github.com/romankh/python-keepasshttp)
 
 # Installation
-Copy git-credential-keepasshttp into a location into a directory included in $PATH e.g. /usr/local/bin
+```shell
+pip install --process-dependency-links git+https://github.com/z00nx/git-credential-keepasshttp
+```
 
 # Usage
 You can set git's credential helper on a per repo basis repository using:
