@@ -9,7 +9,7 @@ A git credential helper to integrate with keepass using keepasshttp
 
 # Installation
 ```shell
-pip install --process-dependency-links git+https://github.com/z00nx/git-credential-keepasshttp
+pip install git+https://github.com/z00nx/git-credential-keepasshttp
 ```
 
 # Usage
